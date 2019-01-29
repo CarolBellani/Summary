@@ -1,3 +1,3 @@
 # Summary
 
-Brief summary of all the repositories and their contents.
+Brief summary of all the repositories, their contents and dates.
